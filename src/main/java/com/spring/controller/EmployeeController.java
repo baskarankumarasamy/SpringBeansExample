@@ -1,4 +1,4 @@
-package com.journaldev.spring.controller;
+package com.spring.controller;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.journaldev.spring.model.Employee;
+import com.spring.model.Employee;
 
 /**
  * Handles requests for the Employee service.

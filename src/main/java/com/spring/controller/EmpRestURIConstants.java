@@ -1,4 +1,4 @@
-package com.journaldev.spring.controller;
+package com.spring.controller;
 
 public class EmpRestURIConstants {
 

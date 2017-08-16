@@ -1,12 +1,12 @@
-package com.journaldev.spring;
+package com.spring.test;
 
 import java.util.LinkedHashMap;
 import java.util.List;
 
 import org.springframework.web.client.RestTemplate;
 
-import com.journaldev.spring.controller.EmpRestURIConstants;
-import com.journaldev.spring.model.Employee;
+import com.spring.controller.EmpRestURIConstants;
+import com.spring.model.Employee;
 
 public class TestSpringRestExample {
 
